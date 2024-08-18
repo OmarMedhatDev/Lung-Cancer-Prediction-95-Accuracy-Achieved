@@ -39,9 +39,3 @@ This project analyzes a lung cancer survey dataset to predict the likelihood of 
 ## Conclusion
 
 The project successfully identified key features influencing lung cancer prediction. Random Forest and Logistic Regression models were particularly effective in providing insights through feature importance and coefficients. Future enhancements could include hyperparameter tuning and cross-validation to improve model accuracy further.
-
-## Installation and Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/lung-cancer-prediction.git
