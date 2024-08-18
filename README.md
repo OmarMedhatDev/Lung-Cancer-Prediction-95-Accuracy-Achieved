@@ -15,19 +15,19 @@ This project analyzes a lung cancer survey dataset to predict the likelihood of 
 ## Visualizations
 
 ### 1. Correlation with Target Variable
-![Correlation with Target Variable](link_to_image1.png)
+![Correlation with Target Variable](images/corr.png)
 
 ### 2. Age Distribution
-![Age Distribution](link_to_image2.png)
+![Age Distribution](images/age.png)
 
 ### 3. Confusion Matrix - Random Forest
-![Confusion Matrix - Random Forest](link_to_image3.png)
+![Confusion Matrix - Random Forest](images/cm.png)
 
 ### 4. Feature Importance (Random Forest)
-![Feature Importance (Random Forest)](link_to_image4.png)
+![Feature Importance (Random Forest)](images/fi.png)
 
 ### 5. Logistic Regression Coefficients
-![Logistic Regression Coefficients](link_to_image5.png)
+![Logistic Regression Coefficients](images/lr.png)
 
 ## Models Used
 
